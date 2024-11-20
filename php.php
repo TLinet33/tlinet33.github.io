@@ -6,3 +6,6 @@ echo "Bonjour le monde !";
 echo "Dernière instruction";
 
 // le script se termine ici, sans la balise de fermeture PHP
+locale_accept_from_http
+echo
+<a href="Il était le divien enfant qui avait mal aux chicos"></a>
