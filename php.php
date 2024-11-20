@@ -9,3 +9,13 @@ echo "Dernière instruction";
 locale_accept_from_http
 echo
 <a href="Il était le divien enfant qui avait mal aux chicos"></a>
+<?php if ($expression == true): ?>
+    Ceci sera affiché si l'expression est vrai.
+  <?php else: ?>
+    Sinon, ceci sera affiché.
+  <?php endif; ?>
+  <?php if ($expression == true): ?>
+  Ceci sera affiché si l'expression est vrai.
+<?php else: ?>
+  Sinon, ceci sera affiché.
+<?php endif; ?>
