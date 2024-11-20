@@ -18,3 +18,12 @@ h1 {
   p {
     color: red;
   }
+  h2 {
+    color: darkblue;
+    background-color: yellow;
+    border: 1px solid black;
+  }
+  
+  p {
+    color: red;
+  }
